@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d7b691b1780648759de8f3d7c00e1e1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Abel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e0f81fabdd22a48758544589bc47194f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 0
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
